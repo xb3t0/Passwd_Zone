@@ -13,6 +13,12 @@ _common wordlist:_
 |  01 | common_password_list.zip    |    Normal list of passwords         |        Zip         |
 |  02 | last_cracked_gmail.txt.bz2  |    Last cracker gmail passwords     |        bzip        |
 
+_Wordlist Download Links:_
+
+|     Names        |                  Links                                                              |
+|------------------|-------------------------------------------------------------------------------------|
+|    Rockyou.txt   |  https://saveshared.com/t3fnEbx6ce/3fb0d0a90ae11fd4ff559090e6f803e7/rockyou-txt/    |
+
 
 _List of Names sepreted by Nationality and join the name one another one:_
 
