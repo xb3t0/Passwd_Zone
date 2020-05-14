@@ -10,3 +10,4 @@ List of Names sepreted by Nationality and join the name one another one
 | S.no |          Name              |         DISCRIPTION                 |     LOCATION      |
 |------|----------------------------|-------------------------------------|-------------------|
 |  01  | Name_canada_wordlist.txt   | List of Canadian Names              |      Canada       |
+|  02  | Name_america_wordlist.txt  | List of American Names              |      America      |
