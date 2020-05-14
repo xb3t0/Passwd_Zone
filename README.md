@@ -15,9 +15,13 @@ _common wordlist:_
 
 _Wordlist Download Links:_
 
-|     Names        |                  Links                                                              |
-|------------------|-------------------------------------------------------------------------------------|
-|    Rockyou.txt   |  https://saveshared.com/t3fnEbx6ce/3fb0d0a90ae11fd4ff559090e6f803e7/rockyou-txt/    |
+|     Names        |                  Links                                                       |   Catagery  |
+|------------------|------------------------------------------------------------------------------|-------------|
+|   Rockyou.txt    |   https://www.scrapmaker.com/data/wordlists/dictionaries/rockyou.txt         |   txt       |
+|   Rockyou.txt    |   http://downloads.skullsecurity.org/passwords/rockyou-withcount.txt.bz2     |   bzip2     |
+|   Hot mail       |   http://downloads.skullsecurity.org/passwords/hotmail-withcount.txt.bz2     |   bzip2     |
+|   Facebook       |   http://downloads.skullsecurity.org/passwords/facebook-pastebay.txt.bz2     |   bzip2     |
+|   PishedFacebook |   http://downloads.skullsecurity.org/passwords/facebook-phished.txt.bz2      |   bzip2     |
 
 
 _List of Names sepreted by Nationality and join the name one another one:_
