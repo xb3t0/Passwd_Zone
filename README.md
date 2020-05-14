@@ -17,7 +17,7 @@ _Wordlist Download Links:_
 
 |     Names        |                  Links                                                       |   Catagery  |
 |------------------|------------------------------------------------------------------------------|-------------|
-|   Rockyou.txt    |   https://www.scrapmaker.com/data/wordlists/dictionaries/rockyou.txt         |   txt       |
+|   Rockyou.txt    |   http://downloads.skullsecurity.org/passwords/rockyou.txt.bz2               |   bzip2     |
 |   Rockyou.txt    |   http://downloads.skullsecurity.org/passwords/rockyou-withcount.txt.bz2     |   bzip2     |
 |   Hot mail       |   http://downloads.skullsecurity.org/passwords/hotmail-withcount.txt.bz2     |   bzip2     |
 |   Facebook       |   http://downloads.skullsecurity.org/passwords/facebook-pastebay.txt.bz2     |   bzip2     |
