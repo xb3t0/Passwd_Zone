@@ -33,8 +33,8 @@ _List of Default password for Ip cameras:_
 |ACTi	|admin	|123456	|192.168.0.100|
 |Arecont	|admin		| |DHCP|
 |Amcrest	|admin	|admin	|DHCP|
-|American |Dynamics	|admin	|admin	|DHCP|
-|American| Dynamics|	admin|	9999|	DHCP|
+|AmericanDynamics	|admin	|admin	|DHCP|
+|AmericanDynamics|	admin|	9999|	DHCP|
 |Arecont| Vision|	none|		DHCP|
 |AvertX|	admin|	1234|	DHCP|
 |Avigilon	|admin	|admin	|DHCP|
@@ -87,7 +87,7 @@ _List of Default password for Ip cameras:_
 |Merit_Lilin_Re|	admin|	1111	|DHCP
 |Messoa	|admin	|(ModelNumber)|	192.168.1.30
 |Mobotix	|admin	|meinsm|	DHCP
-|Northern	|admin	||12345	|DHCP
+|Northern	|admin	|12345	|DHCP
 |Oncam	|admin	|admin|	DHCP
 |Panasonic	|admin	|12345	|192.168.0.253
 |Panasonic|	admin1|	password|	192.168.0.253
@@ -98,8 +98,8 @@ _List of Default password for Ip cameras:_
 |Q-See	|admin	|123456	|DHCP
 |QVIS|	Admin|	1234|	192.168.0.250
 |Reolink	|admin		||DHCP
-|Samsung |Electronics|	root	|root|	DHCP
-|Samsung |Electronics	|admin	|4321|	DHCP
+|Samsung |	root	|root|	DHCP
+|Samsung |admin	|4321|	DHCP
 |Samsung_Techwin|admin|	1111111	|DHCP
 |Samsung(new)|	admin	|4321|	DHCP
 |Samsung	|root	|4321	|192.168.1.200
