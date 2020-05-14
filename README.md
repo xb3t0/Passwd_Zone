@@ -17,12 +17,12 @@ List of Names sepreted by Nationality and join the name one another one
 
 List of Default password for Ip cameras
 
-Camera Manufacturer	username	Password	Default IP
----
-3xLogic	admin	12345	192.0.0.64
-ACTi	Admin	123456	192.168.0.100
-ACTi	admin	123456	192.168.0.100
-Arecont	admin		DHCP
+|   Brand     |   Username	    |   password	   |   Default IP    |
+|-------------|-----------------|----------------|-----------------|
+| 3xLogic	    |     admin	      |   12345	       |  192.0.0.64     |
+| ACTi	      |     Admin	      |   123456    	 |  192.168.0.100  |
+|ACTi	|admin	|123456	|192.168.0.100|
+|Arecont	|admin		| |DHCP
 Amcrest	admin	admin	DHCP
 American Dynamics	admin	admin	DHCP
 American Dynamics	admin	9999	DHCP
